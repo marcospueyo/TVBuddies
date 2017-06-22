@@ -54,6 +54,7 @@ gradlew.bat
 
 # KEYSTORES
 *.keystore
+*.jks
 
 
 
