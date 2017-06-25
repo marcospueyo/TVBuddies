@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     @Test
     public void mul_isCorect() throws Exception {
-        assertEquals(16, 4 * 4);
+        assertEquals(25, 5 * 5);
     }
 }
